@@ -1,7 +1,6 @@
 import json
 import requests
 
-
 source_address = 'borivali station west'
 destination_address = 'malad station west'
 key = ''  # enter your API key here
